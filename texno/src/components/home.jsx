@@ -5,3 +5,5 @@ function Home() {
         <div></div>
     )
 }
+
+export Home
