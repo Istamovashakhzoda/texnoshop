@@ -5,3 +5,5 @@ function Index() {
         <div></div>
     )
 }
+
+export default Index
